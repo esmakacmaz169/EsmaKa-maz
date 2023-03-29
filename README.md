@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben ESMA KAÇMAZ</h1>
-<h3 align="center">Türkiye'den tutkulu bir yazılım geliştirici</h3>
+<h3 align="center">My specialties include quickly learning new programming languages and skills, problem solving, backend design technologies. So far, I have experience in Java, Python, SQL. I’m currently learning Java.</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=esmakacmaz169&label=Profile%20views&color=0e75b6&style=flat" alt="esmakacmaz169" /> </p>
 
